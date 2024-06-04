@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sayeed Anwar</h1>
-<h3 align="center">Inspiring Data Analyst and learning Mern Stack</h3>
+<h3 align="center">Inspiring Data Analyst and Mern Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayeedanwar-28&label=Profile%20views&color=0e75b6&style=flat" alt="sayeedanwar-28" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Mern Stack** from **IIT KANPUR**
 
 - 📫 How to reach me **sayeedanwar0728@gmail.com**
 
